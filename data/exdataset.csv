@@ -1,4 +1,4 @@
-SUB_HAP,SUB_SAT,SUB_SLP,DIC_PAR,DIC_FRI,DIC_OTH,ULT_PRO_PAR,ULT_PRO_FRI,ULT_PRO_OTH,ULT_REC_PAR,ULT_REC_FRI,ULT_REC_OTH,TRU_PAR,TRU_FRI,TRU_OTH,SPN_UNM,SPN_THK,SPN_FEA,SPN_LIV,SPN_IMP,KAN_SEC,KAN_THI,KAN_SUP,KAN_PRD,KAN_KYK,DED_SHI,DED_TEN,DED_JIG,DED_KIS,DED_PUN,SEX_IMP,SEX_MAS,SEX_SEX,SEX_OBJ,SEX_NIN,SEX_NNA,SEX_IMP_num,SEX_MAS_nen,SEX_SEX_nen,SEX_NIN_cen,F_SEX,F_GEN_2,F_GEN,F_FGR,F_INK,F_INS,F_INK_cen,F_INS_cen,F_TAN,ARE,PRE,MAR,CHI,ID
+﻿SUB_HAP,SUB_SAT,SUB_SLP,DIC_PAR,DIC_FRI,DIC_OTH,ULT_PRO_PAR,ULT_PRO_FRI,ULT_PRO_OTH,ULT_REC_PAR,ULT_REC_FRI,ULT_REC_OTH,TRU_PAR,TRU_FRI,TRU_OTH,SPN_UNM,SPN_THK,SPN_FEA,SPN_LIV,SPN_IMP,KAN_SEC,KAN_THI,KAN_SUP,KAN_PRD,KAN_KYK,DED_SHI,DED_TEN,DED_JIG,DED_KIS,DED_PUN,SEX_IMP,SEX_MAS,SEX_SEX,SEX_OBJ,SEX_NIN,SEX_NNA,SEX_IMP_num,SEX_MAS_nen,SEX_SEX_nen,SEX_NIN_cen,F_SEX,F_GEN_2,F_GEN,F_FGR,F_INK,F_INS,F_INK_cen,F_INS_cen,F_TAN,ARE,PRE,MAR,CHI,ID
 4,4,9,10,5,3,10,5,5,0,1,1,10,5,3,1,3,3,3,4,1,2,1,2,3,1,1,1,3,3,4,6,5,Isei,N2-3nin,0,4,52,26,2.5,male,50_bf,50dai,Sen_Sotsu,y200-400,y200-400,3,3,PC(Windows),Hokkaido,1,Married,Child,1
 6,5,8,3,1,0,3,5,7,3,5,5,2,1,0,2,3,3,2,3,3,3,2,2,3,2,2,2,3,3,3,3,,Isei,,2,3,4,,,male,40_bf,40dai,Mas_Shu,y1-200,y400-600,1,5,PC(Windows),Chubu,16,NotMarried,NoChild,2
 5,3,3,10,5,0,10,5,0,10,5,0,10,5,0,2,3,3,2,3,3,3,3,2,2,3,2,2,3,3,6,7,5,Isei,N2-3nin,0,6,130,26,2.5,male,40_af,40dai,Dai_Chu,y400-600,y600-800,5,7,PC(Windows),Chubu,23,Married,Child,3
@@ -703,7 +703,7 @@ SUB_HAP,SUB_SAT,SUB_SLP,DIC_PAR,DIC_FRI,DIC_OTH,ULT_PRO_PAR,ULT_PRO_FRI,ULT_PRO_
 8,7,6,8,6,2,7,5,0,9,6,2,4,3,0,3,3,3,3,3,3,2,2,2,3,3,3,3,4,3,3,5,4,Isei,N2-3nin,0,3,26,12,2.5,female,30_af,30dai,Dai_Sotsu,y0,y400-600,0,5,SMA(android),Chubu,24,Married,Child,702
 6,6,9,7,3,2,7,4,2,7,4,2,6,4,2,2,4,3,4,4,2,1,2,3,3,3,3,2,3,3,3,0,0,Isei,N0nin,0,3,0,0,0,female,10_af,10dai,Chu_Sotsu,y0,y200-400,0,3,SMA(android),Chubu,24,NotMarried,NoChild,703
 3,4,5,5,3,1,5,5,5,5,5,5,3,3,3,2,2,2,2,3,2,3,2,2,3,2,2,2,2,2,6,8,4,Isei,N41-100nin,0,6,365,12,70.5,male,40_bf,40dai,Mas_Shu,y200-400,y400-600,3,5,PC(Windows),Kanto,11,NotMarried,NoChild,704
-6,6,5,4,2,0,5,3,0,1,3,5,10,5,1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,1,,,Isei,,3,1,,,,female,70以�,70dai,Kou_Sotsu,y1-200,Unknown,1,,PC(Windows),Kinki,27,Married,Child,705
+6,6,5,4,2,0,5,3,0,1,3,5,10,5,1,3,3,3,3,3,2,2,2,2,3,3,3,3,3,3,1,,,Isei,,3,1,,,,female,70-,70dai,Kou_Sotsu,y1-200,Unknown,1,,PC(Windows),Kinki,27,Married,Child,705
 4,3,2,5,3,0,5,5,5,4,4,4,10,10,10,1,3,3,3,3,1,1,1,1,3,1,1,1,3,3,2,5,3,Isei,N2-3nin,0,2,26,4,2.5,male,30_af,30dai,Dai_Sotsu,y400-600,y400-600,5,5,SMA(android),Chubu,23,Married,Child,706
 8,8,5,3,1,0,3,5,1,0,0,0,2,1,0,3,3,3,3,4,3,2,3,3,4,2,3,2,3,4,4,5,4,Isei,N4-5nin,0,4,26,12,4.5,female,40_bf,40dai,Dai_Sotsu,y200-400,y600-800,3,7,SMA(iOS_iPhone),Kanto,14,Married,Child,707
 8,7,8,5,2,0,5,5,3,5,0,0,10,10,0,2,3,3,3,4,2,2,2,3,3,3,3,3,2,3,3,4,3,Isei,N4-5nin,0,3,12,4,4.5,female,30_af,30dai,Dai_Sotsu,y1-200,y400-600,1,5,SMA(android),Kanto,12,Married,NoChild,708
