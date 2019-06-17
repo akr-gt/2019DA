@@ -13,6 +13,7 @@
 * [第7講](https://akrgt.github.io/2019DA/I/7th.html)
 * [第8講](https://akrgt.github.io/2019DA/I/8th.html)
 * [第9講](https://akrgt.github.io/2019DA/I/9th.html)
+* [第10講](https://akrgt.github.io/2019DA/I/10th.html)
 
 #### リアクションペーパー
 
