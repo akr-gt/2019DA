@@ -32,9 +32,13 @@
 
 ### データ解析論II
 
+#### 講義資料
 
+- [第1講](https://akrgt.github.io/2019DA/II/1st.html)
 
+#### リアクションペーパー
 
+- [コチラからどうぞ](https://forms.gle/VkJ9nXWX5P9vLqYA9)
 
 担当：後藤　晶
 
