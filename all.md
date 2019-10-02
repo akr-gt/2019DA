@@ -41,6 +41,16 @@
 
 - [コチラからどうぞ](https://forms.gle/VkJ9nXWX5P9vLqYA9)
 
+
+
+
+
+#### 授業内で使っているデータ
+
+- [コチラからどうぞ](https://akrgt.github.io/2019DA/data/exdataset.csv)
+
+
+
 担当：後藤　晶
 
 （akiragoto[at]meiji.ac.jp）
