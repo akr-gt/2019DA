@@ -37,6 +37,7 @@
 - [第1講](https://akrgt.github.io/2019DA/II/1st.html)
 - [第2講](https://akrgt.github.io/2019DA/II/2nd.html)
 - [第3講](https://akrgt.github.io/2019DA/II/3rd.html)
+- [第4講](https://akrgt.github.io/2019DA/II/4th.html)
 
 #### リアクションペーパー
 
